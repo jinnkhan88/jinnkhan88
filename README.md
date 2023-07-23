@@ -1,3 +1,6 @@
+
+![Asad ur Rehman LinkedIn Banner](https://media.licdn.com/dms/image/D4D16AQGxfmhbLdLmVQ/profile-displaybackgroundimage-shrink_350_1400/0/1685471259308?e=1695859200&v=beta&t=f-vP3GoLDRBawS9_a6e0VPJ3a9NfN9TG3UormKqh1vc)
+
 # Asad ur Rehman Khan - Senior Javascript Full Stack Developer 🚀
 
 ## About Me 😎
