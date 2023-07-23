@@ -28,3 +28,5 @@ As a quick learner, I embrace new challenges and constantly seek opportunities t
 I am always open to exciting opportunities and collaborations. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/asadrehmankhan/) or [Email](hello@asadrehman.dev).
 
 Thank you for visiting my profile! Let's build remarkable solutions together! 🚀
+
+![](https://komarev.com/ghpvc/?username=jinnkhan88)
