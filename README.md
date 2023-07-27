@@ -11,15 +11,17 @@ I am a highly skilled and experienced Senior Full Stack Developer with over 13 y
 
 I thrive in working with leading technologies, and my proficiency includes:
 
-- Frontend: ⚛️ React.js, 🔗 Next.js, 🌐 HTML, 🎨 CSS, 🕸️ jQuery, 📱 React Native, 📶 WebSockets, 💅 Styled Components, 🧵 Stitches.js, 📚 Storybook, 🌲 Cypress, 🃏 Jest.
-- Backend: 🔧 Node.js, 🚀 Express.js, 🌐 GraphQL, ☁️ AWS Lambda, 📦 Microservices, 🗺️ PRISMA, 🐇 RabbitMQ.
-- Databases: 🗄️ MySQL, 🍃 MongoDB, 🔧 DynamoDB.
+- Frontend: ⚛️ React.js, 🔗 Next.js, 🌐 HTML, 🎨 CSS, 🕸️ jQuery, 📱 React Native, 📶 WebSockets, 💅 Styled Components, 🧵 Stitches.js, 📚 Storybook, 🌲 Cypress, 🃏 Jest, 🅰️ TypeScript.
+- Backend: 🔧 Node.js, 🚀 Express.js, 🌐 GraphQL, ☁️ AWS Lambda, 📦 Microservices, 🗺️ PRISMA, 🐇 RabbitMQ, 🐍 Python, 🎸 Django, 🍃 Flask, 🦅 Nest.js.
+- Databases: 🗄️ MySQL, 🍃 MongoDB, 🔧 DynamoDB, 🐘 PostgreSQL, 🐇 RabbitMQ, 🔄 Redis.
+- ORM: 🍃 Mongoose (for MongoDB), 🗺️ Prisma (for relational databases), 🔧 Sequelize (for MySQL).
 - DevOps & Tools: 🐳 Docker, 🗃️ Git, ⚙️ Jenkins, 🔄 CI/CD, 🦊 GitLab, 🐙 GitHub, ☁️ AWS EC2, 📝 JIRA, 🐧 Linux.
-- Cloud Services: ☁️ AWS.
+- Cloud Services: ☁️ AWS EC2 (Elastic Compute Cloud), ☁️ AWS RDS (Relational Database Service).
+- Cloud Messaging: 📧 SendGrid (for email communication), 📞 Twilio (for SMS and voice communication).
 
 ## Industry Experience 🌐
 
-Throughout my career, I have collaborated with UK and American-based companies across various industries. I excel in fast-paced environments and have a strong dedication to building and debugging reliable, high-availability, secure, and performant distributed services.
+I have collaborated with UK and American-based companies across various industries throughout my career. I excel in fast-paced environments and have a strong dedication to building and debugging reliable, high-availability, secure, and performant distributed services.
 
 ## Motivated Learner and Problem Solver 🔍
 
